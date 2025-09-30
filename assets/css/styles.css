@@ -42,6 +42,9 @@ h2 {
     color: white;
 }
   
+#portfolio .card-text {
+    min-height: 120px;
+}
     
 
 /* Contact section */
